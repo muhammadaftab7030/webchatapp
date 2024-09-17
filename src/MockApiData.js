@@ -5,7 +5,7 @@ const users = [
         profile_image: require('../src/assets/images/adnan.jpg'),
         messages: [
             {
-            msg:['Hello! How are you?', 'What is your name?', 'What are doing?'],
+            msg:['Hello! How are you?', 'What is your name?', 'What are doing?','Hello! How are you?', 'What is your name?', 'What are doing?'],
             createdAt: ['8:33 AM', '8:45 AM','9:00 PM']
         },
         ]
